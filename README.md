@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Aishwarya 👋
 
-<!--
-**aishwaryasanjaysonawane-a11y/aishwaryasanjaysonawane-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Working student in **digital transformation & analytics**, based in Stuttgart, Germany.
 
-Here are some ideas to get you started:
+I build dashboards, automate Excel workflows, and figure out how large companies actually make decisions with data. Currently at **smart Europe GmbH**, previously at Sedris Vision, SKF India, and Hero MotoCorp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+📊 **[EU Economic Dashboard](https://github.com/aishwaryasanjaysonawane-a11y/eu-kpi-dashboard)** — Interactive Streamlit dashboard tracking GDP, unemployment, inflation, and trade across 10 EU countries. Real Eurostat data.
+
+🔧 **[Excel Automation Toolkit](https://github.com/aishwaryasanjaysonawane-a11y/excel-automation)** — Python scripts that replace 40+ hours of monthly Excel work: CSV merger, pivot generator, anomaly detector, report formatter.
+
+🎯 **[JD Analyzer](https://github.com/aishwaryasanjaysonawane-a11y/jd-analyzer)** — Paste any job description, get a skill match score, gap analysis, and CV keyword suggestions. Built for my own Werkstudent job search.
+
+🍛 **[Stuttgart Eats](https://github.com/aishwaryasanjaysonawane-a11y/stuttgart-eats)** — Restaurant finder for international students in Stuttgart. Personally curated, honestly reviewed.
+
+## Tech I use
+
+`Python` `Pandas` `Streamlit` `Power BI` `Excel (VBA/Macros)` `SQL` `SAP Analytics` `SAP BTP` `Jira` `Figma` `Confluence`
+
+## Currently
+
+- 🎓 M.Eng. in Technology & Innovation Management at Hochschule Harz
+- 💼 Looking for Werkstudent roles in PM, analytics, AI/ML, strategy
+- 🌍 Languages: English (fluent) · German (B2) · Hindi (native)
+- 📍 Stuttgart, Germany
+
+## Links
+
+🌐 [Portfolio](https://aishwaryasanjaysonawane-a11y.github.io/Portfolio/) · 💼 [LinkedIn](https://linkedin.com/in/aishwarya-sonawane) · 📧 aishwarya.harz@gmail.com
