@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Aishwarya 👋
 
-<!--
-**aishwaryas-bit/aishwaryas-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Eng. student in Technology & Innovation Management (Hochschule Harz) with 3+ years
+in automotive business analytics and project coordination
+(smart Europe, SKF, Hero MotoCorp–Harley-Davidson).
 
-Here are some ideas to get you started:
+**Currently building:** projects in automotive market analysis, product
+prioritization, and customer-feedback analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools:** SQL · Python (pandas) · Power BI · Excel · Jira/Confluence
+
+**Looking for:** Working student roles in product management, business analytics
+and project management, from January 2027.
+
+📫 linkedin.com/in/aishwarya-s18 · aishwarya.harz@gmail.com
