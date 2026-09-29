@@ -12,4 +12,4 @@ prioritization, and customer-feedback analytics.
 **Looking for:** Working student roles in product management, business analytics
 and project management, from January 2027.
 
-📫 linkedin.com/in/aishwarya-s18 · aishwarya.harz@gmail.com
+📫 [linkedin.com/in/aishwarya-s18] · aishwarya.harz@gmail.com
