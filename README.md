@@ -6,6 +6,7 @@ in automotive business analytics and project coordination
 
 **Currently building:** projects in automotive market analysis, product
 prioritization, and customer-feedback analytics.
+   **Featured project:** [German EV & Automotive Market Analysis](https://github.com/aishwarya-sonawane/german-ev-market-analysis)
 
 **Tools:** SQL · Python (pandas) · Power BI · Excel · Jira/Confluence
 
