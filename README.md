@@ -6,8 +6,7 @@ M.Eng. student in Technology & Innovation Management (Hochschule Harz) with 3+ y
 
 ### Featured projects
 - 🤖 **[AI Use-Case Prioritization](https://github.com/aishwarya-sonawane/ai-use-case-prioritization)**: weighted scoring of 15 AI use cases across 5 business processes, with Claude-assisted drafting, human validation, sensitivity analysis, Excel and Power BI
-- 🚗 **[German EV & Automotive Market Analysis](https://github.com/aishwarya-sonawane/german-ev-market-analysis)**: SQL, Python and Power BI analysis of the German EV market
-
+- 🚗 **[German EV & Automotive Market Analysis](https://github.com/aishwarya-sonawane/german-ev-market-analysis)**: SQL, Python and Power BI analysis of 24 months of official KBA new-car registrations (Sep 2024 – Aug 2026). Battery-electric share nearly doubled from 16.5% to 32.4%, with a breakdown of which brands and groups drove the shift
 **Tools:** SQL · Python (pandas) · Power BI (PL-300) · Excel · Claude / GenAI · Jira/Confluence
 
 **Looking for:** Working student roles in product management, business analytics, project management and AI/digital transformation, from January 2027.
