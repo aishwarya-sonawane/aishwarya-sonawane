@@ -4,6 +4,8 @@ M.Eng. student in **Technology & Innovation Management** at Hochschule Harz, wit
 
 I build dashboards, automate Excel workflows, and work out how companies actually make decisions with data.
 
+🌐 **Portfolio:** [aishwarya-sonawane.vercel.app](https://aishwarya-sonawane.vercel.app)
+
 ## Featured projects
 
 🔋 **[EV Test-Drive Conversion: PM Case Study](https://aishwarya-sonawane.github.io/ev-test-drive-case-study/)**: why EV shoppers configure a car online but never book a test drive. Research, RICE prioritisation, PRD, wireframes, metrics and roadmap. ([repository](https://github.com/aishwarya-sonawane/ev-test-drive-case-study))
@@ -14,9 +16,9 @@ I build dashboards, automate Excel workflows, and work out how companies actuall
 
 ## More projects
 
-📊 **[EU Economic Dashboard](https://github.com/aishwarya-sonawane/eu-kpi-dashboard)**: interactive Streamlit dashboard tracking GDP, unemployment, inflation and trade across 10 EU countries, using real Eurostat data.
+📊 **[EU Economic Dashboard](https://github.com/aishwarya-sonawane/eu-kpi-dashboard)**: interactive Streamlit dashboard tracking GDP, unemployment, inflation and trade across 10 EU countries, built on Eurostat figures for 2019–2025.
 
-🔧 **[Excel Automation Toolkit](https://github.com/aishwarya-sonawane/excel-automation)**: Python scripts that replace 40+ hours of monthly Excel work: CSV merger, pivot generator, anomaly detector, report formatter.
+🔧 **[Excel Automation Toolkit](https://github.com/aishwarya-sonawane/excel-automation)**: Python scripts that turn days of monthly Excel work into a few commands: CSV merger, pivot generator, anomaly detector, report formatter.
 
 🎯 **[JD Analyzer](https://github.com/aishwarya-sonawane/jd-analyzer)**: paste a job description and get a skill match score, gap analysis and CV keyword suggestions.
 
@@ -34,4 +36,4 @@ I build dashboards, automate Excel workflows, and work out how companies actuall
 
 ## Links
 
-🌐 [Portfolio](https://aishwarya-sonawane.github.io/Portfolio/) · 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-s18) · 📧 aishwarya.harz@gmail.com
+🌐 [Portfolio](https://aishwarya-sonawane.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/aishwarya-s18) · 📧 aishwarya.harz@gmail.com
